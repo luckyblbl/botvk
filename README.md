@@ -6,4 +6,7 @@
  - Пары на завтра
  - Время звонков
  - Пары на неделю
+ 
  ![](./Screen.jpg)
+
+###Created by Belousov Dmitry
