@@ -8,5 +8,4 @@
  - Пары на неделю
  
  ![](./Screen.jpg)
-
 ###Created by Belousov Dmitry
